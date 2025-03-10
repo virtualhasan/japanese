@@ -1,4 +1,4 @@
-import{i as b,r as o,j as e,f as r,B as m}from"./index-DkSkfDTM.js";import{d as h}from"./minna_n_nihon_1_vocabulary-B-BacEYM.js";/**
+import{i as b,r as o,j as e,f as r,B as m}from"./index-DJna0Zeu.js";import{d as h}from"./minna_n_nihon_1_vocabulary-B-BacEYM.js";/**
  * @license lucide-react v0.475.0 - ISC
  *
  * This source code is licensed under the ISC license.
